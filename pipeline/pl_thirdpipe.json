@@ -1,0 +1,17 @@
+{
+	"name": "pl_thirdpipe",
+	"properties": {
+		"activities": [
+			{
+				"name": "3rd pipeline",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
