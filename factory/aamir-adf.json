@@ -1,0 +1,9 @@
+{
+	"name": "aamir-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93a6b895-3e2a-4f35-b25d-2d77542b704d",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
