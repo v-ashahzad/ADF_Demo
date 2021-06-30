@@ -1,5 +1,13 @@
 {
 	"name": "aamir-adf",
+	"properties": {
+		"globalParameters": {
+			"servername": {
+				"type": "string",
+				"value": "testserver"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
