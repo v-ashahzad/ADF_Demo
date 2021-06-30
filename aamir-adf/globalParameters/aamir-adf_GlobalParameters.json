@@ -1,1 +1,10 @@
-{}
+{
+	"servername": {
+		"type": "string",
+		"value": "testserver"
+	},
+	"databasename": {
+		"type": "string",
+		"value": "MSDB"
+	}
+}

@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "aamir-adf"
+		},
+		"dataFactory_location": {
+			"value": "eastus"
+		},
+		"dataFactory_identity_type": {
+			"value": "SystemAssigned"
 		}
 	}
 }
